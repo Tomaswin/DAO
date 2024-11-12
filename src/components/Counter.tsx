@@ -25,6 +25,7 @@ export function Counter() {
     <div className="Container">
       <Card>
         <FlexBoxCol>
+          <h1>Hola</h1>
           <h3>Counter</h3>
           <FlexBoxRow>
             <b>Contract Address</b>
